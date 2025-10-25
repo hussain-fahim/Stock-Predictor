@@ -149,15 +149,6 @@ This simulates predicting multiple future days by feeding each new prediction ba
 
 *(Metrics are illustrative — actual values depend on the training run and chosen ticker.)*
 
----
-
-## 📈 Example Plot
-
-![Stock Prediction Graph](assets/example_plot.png)
-
-*(The plot compares real vs. predicted stock prices over time.)*
-
----
 
 ## 📦 Installation & Usage
 
