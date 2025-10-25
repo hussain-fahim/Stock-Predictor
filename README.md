@@ -39,7 +39,6 @@ stock-predictor-lstm/
 ├── stock_predictor.py         # Main LSTM training and prediction script
 ├── requirements.txt           # List of dependencies
 ├── README.md                  # Project documentation
-└── results/                   # (Optional) Directory to save plots and model outputs
 ```
 
 ---
